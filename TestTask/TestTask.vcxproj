@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="MyList.cpp" />
+    <ClCompile Include="SmartPtr.cpp" />
     <ClCompile Include="TestTask.cpp" />
   </ItemGroup>
   <ItemGroup>
